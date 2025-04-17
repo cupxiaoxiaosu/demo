@@ -2,3 +2,12 @@
   font-family: sans-serif;
   text-align: center;
 }
+.form-item{
+  display: flex;
+  justify-conent: space-between;
+  margin-bottom: 16px;
+}
+.form-item label{
+  display: block;
+  width: 80px;
+}
